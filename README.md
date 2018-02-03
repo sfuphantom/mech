@@ -13,3 +13,9 @@ the main workflow is usually like this:
 6.5 **git add -A** will add all new files repo folder to be tracked by git
 7. to save the changes you have made and the files you have added, use the command **git commit -m "fill in your update here"** to commit your changes and save them with a useful message
 8. when you are ready to update the centralized repository on github with your changed localized cloned repository, use the command **git push** and you should see your changes show up on github
+
+http://rogerdudler.github.io/git-guide/
+
+https://learngitbranching.js.org/
+
+http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace

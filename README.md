@@ -1,5 +1,5 @@
-# mech-sims
-mechanical simulations
+# mech
+mechanical simulations and calculations
 
 Getting started with git
 the main workflow is usually like this:
